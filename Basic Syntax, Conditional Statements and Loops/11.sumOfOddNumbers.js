@@ -12,4 +12,4 @@ function sumOfOddNumbers(max){
     }
     console.log(`Sum: ${total}`)
 }
-sumOfOddNumbers(2)
+sumOfOddNumbers(7)
