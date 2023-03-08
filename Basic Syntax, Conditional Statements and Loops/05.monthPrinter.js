@@ -4,7 +4,7 @@ function monthPrinter(number) {
         case 2: console.log(`February`); break;
         case 3: console.log(`March`); break;
         case 4: console.log(`April`); break;
-        case 5: console.log(`May`); break; //
+        case 5: console.log(`May`); break;
         case 6: console.log(`June`); break;
         case 7: console.log(`July`); break; //
         case 8: console.log(`August`); break;
@@ -13,12 +13,15 @@ function monthPrinter(number) {
         case 11: console.log(`November`); break;
         case 12: console.log(`December`); break;
 
-            //
-            //
+        // 11 -- // 
+
+
+
             
+        // 10000 /// 11111   
         default:
             console.log(`Error!`)
             break;
-    }
+    } // 0000111111111
 }
 monthPrinter(14)
