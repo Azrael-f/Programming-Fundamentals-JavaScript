@@ -6,4 +6,4 @@ function excellentGrade(grade){
     }
 
 }
-excellentGrade(5.5)
+excellentGrade(4)
