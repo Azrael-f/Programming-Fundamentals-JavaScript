@@ -39,4 +39,4 @@ function theatrePromotions(type, age) {
     
 }
 
-theatrePromotions('Holiday', -12)
+theatrePromotions('Weekend', 12)
