@@ -16,4 +16,4 @@ function foreignLanguages(country){
                 break;
     }
 }
-foreignLanguages("Germany")
+foreignLanguages("Mexico")
