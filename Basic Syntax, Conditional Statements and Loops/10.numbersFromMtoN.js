@@ -5,4 +5,4 @@ function numbersFromMtoN(max, min){
     }
 
 }
-numbersFromMtoN(4, 1)
+numbersFromMtoN(5, 1)
